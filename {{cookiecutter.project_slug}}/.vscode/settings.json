@@ -1,0 +1,14 @@
+{
+  "git.autofetch": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.rulers": [140],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "debug.inlineValues": "on",
+  "files.exclude": {
+    "**/node_modules": true
+  }
+}

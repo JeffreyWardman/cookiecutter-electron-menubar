@@ -1,0 +1,13 @@
+# General
+.DS_Store
+.env
+.env.local
+
+# Javascript
+node_modules/
+
+# Vite
+.vite/
+
+# Electron-Forge
+out/

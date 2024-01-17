@@ -1,0 +1,7 @@
+{
+    "full_name": "FULL NAME",
+    "email": "EMAIL",
+    "project_name": "Cookiecutter Python",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+}
